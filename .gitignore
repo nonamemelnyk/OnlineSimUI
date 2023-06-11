@@ -3,3 +3,5 @@
 /target/
 error.log
 queries.log
+/task1/error.log
+/task1/queries.log
