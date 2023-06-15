@@ -6,13 +6,13 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/nonamemelnyk/OnlineSimUI.git
+  git clone https://github.com/nonamemelnyk/simui.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd OnlineSimUI/task1/
+  cd simui/task1/
 ```
 
 Start app
